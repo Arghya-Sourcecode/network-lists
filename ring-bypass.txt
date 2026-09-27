@@ -1,3 +1,0 @@
-ring.com
-api.ring.com
-ring-doorbell.com
